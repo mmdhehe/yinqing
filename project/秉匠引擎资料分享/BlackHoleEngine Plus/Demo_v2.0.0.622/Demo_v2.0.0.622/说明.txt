@@ -1,0 +1,4 @@
+1.此demo仅展示加载模型的整个初始化过程，以及模型加载进度条参考样例：
+2.index.html页面为模型加载主页面
+3.SDK文件包括RealBIMWeb.js、RealBIMWeb.wasm、RealBIMWeb_Worker.js、RealBIMWeb_Worker.wasm、ReUtility.js五个文件
+4.main.js为加载模型的主js代码，为示例代码

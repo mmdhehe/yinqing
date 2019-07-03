@@ -1,0 +1,4 @@
+$width: (8 / 30)*100%;
+@mixin firstwidth() {
+	width: $width;
+}
